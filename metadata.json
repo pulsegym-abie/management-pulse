@@ -1,0 +1,6 @@
+{
+  "name": "DiviTask",
+  "description": "A daily task manager with automatic reminders, Google Sheets synchronization via Google Apps Script (GAS), and custom division-specific dashboard portals for Marketing, HR, IT, and Finance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
